@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @manolorivera
+
+# Código fuente
+/src/ @manolorivera
+/scripts/ @manolorivera
+
+# Tests
+/tests/ @manolorivera
+
+# Documentación
+/docs/ @manolorivera
+
+# Workflows y configuración de GitHub
+/.github/ @manolorivera
